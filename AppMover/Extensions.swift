@@ -6,6 +6,7 @@
 //  Copyright © 2019 Oskar Groth. All rights reserved.
 //
 
+import AppKit
 import Foundation
 
 extension URL {
